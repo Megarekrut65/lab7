@@ -1,0 +1,5 @@
+Nickname=Anti1111
+Points=94
+Element=wood
+
+=poison
