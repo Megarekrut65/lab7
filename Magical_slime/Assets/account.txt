@@ -1,7 +1,0 @@
-Nickname=1111
-Password=dddd
-Mail=bandalak28@gmail.com
-Points=153
-Coins=639
-Slimes=1111000
-limes=0000000
