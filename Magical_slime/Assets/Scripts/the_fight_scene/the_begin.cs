@@ -863,13 +863,13 @@ public class the_begin : MonoBehaviour
         right_passive();
         float next_wait = 0f;
         if (right_number_of_poison > 0 || left_number_of_poison > 0) next_wait += 0.7f;       
-        yield return new WaitForSeconds(0.5f + next_wait);
+        yield return new WaitForSeconds(0.7f + next_wait);
         if (right_wood_combo_skill.activeInHierarchy && left_wood_combo_skill.activeInHierarchy)
         {
             save_round = 0;
             edit_wood(right_big_skill, left_wood_combo_skill, ref right_indexes_of_skills[3], ref right_wood_indexes, false, ref right_number_of_leaf);
             edit_wood(left_big_skill, right_wood_combo_skill, ref left_indexes_of_skills[3], ref left_wood_indexes, true, ref left_number_of_leaf);
-            yield return new WaitForSeconds(0.5f);
+            yield return new WaitForSeconds(0.7f);
         }
         can_click();
         StopCoroutine("check_combo");

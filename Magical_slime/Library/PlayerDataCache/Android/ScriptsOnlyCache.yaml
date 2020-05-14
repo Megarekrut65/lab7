@@ -1551,4 +1551,4 @@ ScriptsOnlyBuild:
   - Assets/Scenes/end_of_fight_scene.unity
   - Assets/Scenes/game_mode_scene.unity
   - Assets/Scenes/forgot_password_scene.unity
-  playerPath: E:/Lab7/Magical_slime/MagicalSlimes.apk
+  playerPath: E:/Lab7/repos/Magical_slime/MagicalSlimes.apk

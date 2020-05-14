@@ -382,6 +382,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2c6832d44d6dbba4daf5eaf02f3adda4, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  sound: 1
 --- !u!114 &153850546
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -874,6 +875,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2c6832d44d6dbba4daf5eaf02f3adda4, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  sound: 1
 --- !u!114 &243827146
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1116,6 +1118,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2c6832d44d6dbba4daf5eaf02f3adda4, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  sound: 1
 --- !u!114 &252176032
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2276,6 +2279,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2c6832d44d6dbba4daf5eaf02f3adda4, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  sound: 1
 --- !u!114 &598719219
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2702,6 +2706,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2c6832d44d6dbba4daf5eaf02f3adda4, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  sound: 1
 --- !u!114 &650388177
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -3284,6 +3289,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2c6832d44d6dbba4daf5eaf02f3adda4, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  sound: 1
 --- !u!61 &835356803
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -3395,7 +3401,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.26083332, y: 0}
   m_AnchorMax: {x: 0.70500004, y: 0.7041875}
-  m_AnchoredPosition: {x: -216.00006, y: -193.62}
+  m_AnchoredPosition: {x: -216.00008, y: -193.62}
   m_SizeDelta: {x: 0, y: 136.72}
   m_Pivot: {x: 0.5, y: 0.04059649}
 --- !u!114 &845191266
@@ -3542,6 +3548,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2c6832d44d6dbba4daf5eaf02f3adda4, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  sound: 1
 --- !u!114 &956642258
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -3975,6 +3982,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2c6832d44d6dbba4daf5eaf02f3adda4, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  sound: 1
 --- !u!61 &997931840
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -4355,6 +4363,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2c6832d44d6dbba4daf5eaf02f3adda4, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  sound: 1
 --- !u!114 &1135371360
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -4655,6 +4664,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2c6832d44d6dbba4daf5eaf02f3adda4, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  sound: 1
 --- !u!114 &1296877573
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -5279,6 +5289,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2c6832d44d6dbba4daf5eaf02f3adda4, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  sound: 1
 --- !u!114 &1351943879
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -5748,6 +5759,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2c6832d44d6dbba4daf5eaf02f3adda4, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  sound: 1
 --- !u!114 &1577172194
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -5990,6 +6002,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2c6832d44d6dbba4daf5eaf02f3adda4, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  sound: 1
 --- !u!114 &1578069469
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -6268,6 +6281,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2c6832d44d6dbba4daf5eaf02f3adda4, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  sound: 1
 --- !u!61 &1620299803
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -6513,6 +6527,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2c6832d44d6dbba4daf5eaf02f3adda4, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  sound: 1
 --- !u!114 &1674897032
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -6725,6 +6740,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2c6832d44d6dbba4daf5eaf02f3adda4, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  sound: 1
 --- !u!114 &1705244458
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -7149,6 +7165,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2c6832d44d6dbba4daf5eaf02f3adda4, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  sound: 1
 --- !u!61 &1800020179
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -8171,10 +8188,10 @@ RectTransform:
   m_Father: {fileID: 155525121}
   m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0.19375001, y: 0.10911327}
-  m_AnchorMax: {x: 0.80500007, y: 0.30444384}
-  m_AnchoredPosition: {x: -2, y: 1.25}
-  m_SizeDelta: {x: 0, y: -3.5}
+  m_AnchorMin: {x: 0.23750001, y: 0.11661326}
+  m_AnchorMax: {x: 0.77750003, y: 0.30444384}
+  m_AnchoredPosition: {x: 0.1847992, y: 0.25}
+  m_SizeDelta: {x: 0, y: -0.5}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!61 &2071327505
 BoxCollider2D:
